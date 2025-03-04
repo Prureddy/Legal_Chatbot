@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+langgraph
+chromadb
+pypdf
+unstructured
+langchain_google_genai
+langchain_experimental
