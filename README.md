@@ -6,7 +6,7 @@ The Legal AI Assistant is an advanced Streamlit-based application that leverages
 
 ## 🎥 Demo Video
 
-[Insert Demo Video Link Here - Replace with an actual video showcasing the application's functionality]
+https://github.com/user-attachments/assets/adb7a375-314f-4738-93c4-befbf45e2407
 
 ## 🏗️ System Architecture
 
