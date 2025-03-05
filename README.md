@@ -89,7 +89,7 @@ streamlit run app.py
 
 ## 🧩 Project Components
 
-### 1. PDF Loader (`qdrant_loader.py`)
+### 1. PDF Loader (`vectordb_setup.py`)
 - Extracts text from PDFs
 - Generates embeddings
 - Loads documents into Qdrant vector database
