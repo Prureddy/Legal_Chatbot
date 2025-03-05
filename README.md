@@ -126,12 +126,3 @@ streamlit run app.py
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📞 Contact
-
-Your Name - [Your Email]
-Project Link: [https://github.com/yourusername/legal-ai-assistant](https://github.com/yourusername/legal-ai-assistant)
-
----
-
-**Disclaimer**: This tool is for research and educational purposes. Always consult professional legal advice for specific legal matters.
